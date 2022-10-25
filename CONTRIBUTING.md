@@ -9,9 +9,12 @@ Star this repository⭐
 Add code according to your need with proper extension eg bubble_sort.cpp linear_search.py
 
 Some Code Guidelines:
-1)Variable name should be meaningful. Use comments in your code. 
+1)Variable name should be meaningful. Use comments in your code.
+
 2)Your Code must be pretty formated. 
+
 3)After a valid pull request your code will be carefully reviewed and if it matches the rule then it will be accepted otherwise you need to generate a new file. 
+
 4)All valid pull request will be accepted, this process may take sometime but don't worry.
 
 End note - It's a great privilege of dscgecb to contribute at Hacktoberfest 2022.
